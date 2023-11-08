@@ -1,7 +1,8 @@
 # 3D Piano Simulation
 
-TMT2033 Computer Graphics 2022/2023-2
 Project - Option 4 : to graphically simulate 3D hands playing a piano
+TMT2033 Computer Graphics 2022/2023-2
+
 
 Group 5YNDROME :
 Ho Jia Wei      (79545),
