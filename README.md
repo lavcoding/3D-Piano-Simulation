@@ -4,10 +4,10 @@ TMT2033 Computer Graphics
 Project - Option 4 : to graphically simulate 3D hands playing a piano
 
 Group 5YNDROME :
-Ho Jia Wei      (79545)
-Jason Chan Fong (79630)
-Ku Wan Sien     (79801)
-Lim Ai Vi       (79877)
+Ho Jia Wei      (79545),
+Jason Chan Fong (79630),
+Ku Wan Sien     (79801),
+Lim Ai Vi       (79877),
 Lim Wei Guan    (79885)
 
 READ ME :
