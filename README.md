@@ -1,8 +1,11 @@
 # 3D Piano Simulation
-
-Project - Option 4 : to graphically simulate 3D hands playing a piano
 TMT2033 Computer Graphics 2022/2023-2
+Project - Option 4 : to graphically simulate 3D hands playing a piano
 
+https://github.com/lavcoding/3D-Piano-Simulation/assets/132344441/a7d37f2d-5d33-446f-a0a9-533a72ce884c
+https://github.com/lavcoding/3D-Piano-Simulation/assets/132344441/698c1688-c1fb-49c7-8e3b-ae971ce53702
+https://github.com/lavcoding/3D-Piano-Simulation/assets/132344441/9f752834-e624-47a5-ab8d-a4a4d985e5b2
+https://github.com/lavcoding/3D-Piano-Simulation/assets/132344441/29968e2b-7bbe-42be-9c12-2ea00a76f799
 
 Group 5YNDROME :
 Ho Jia Wei      (79545),
