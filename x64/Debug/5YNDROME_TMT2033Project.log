@@ -1,0 +1,17 @@
+﻿  5YNDROME_TMT2033Project.cpp
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutInitWindowPosition referenced in function main
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutPostRedisplay referenced in function "void __cdecl keyReleased(unsigned char,int,int)" (?keyReleased@@YAXEHH@Z)
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutReshapeFunc referenced in function main
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutKeyboardFunc referenced in function main
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutMouseFunc referenced in function main
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutMotionFunc referenced in function main
+5YNDROME_TMT2033Project.obj : error LNK2019: unresolved external symbol glutKeyboardUpFunc referenced in function main
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\KU\Desktop\glutdlls37beta\5YNDROME_TMT2033Project\x64\Debug\5YNDROME_TMT2033Project.exe : fatal error LNK1120: 14 unresolved externals
