@@ -1,6 +1,6 @@
 # 3D Piano Simulation
 
-TMT2033 Computer Graphics
+TMT2033 Computer Graphics 2022/2023-2
 Project - Option 4 : to graphically simulate 3D hands playing a piano
 
 Group 5YNDROME :
@@ -10,7 +10,6 @@ Ku Wan Sien     (79801),
 Lim Ai Vi       (79877),
 Lim Wei Guan    (79885)
 
-READ ME :
 1. Requirements,
     - Microsoft Visual Studio Community 2022
     - Setup GLUT package in Visual Studio
