@@ -1,4 +1,4 @@
-# 3D Piano Simulation
+# 3D Piano Simulation🎶🎹✋
 ### TMT2033 Computer Graphics 2022/2023-2
 #### Project - Option 4 : to graphically simulate 3D hands playing a piano
 Group 5YNDROME :
