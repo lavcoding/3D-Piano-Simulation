@@ -21,6 +21,7 @@ Lim Wei Guan    (79885)
 4. To pause/resume the animation, press the key 'p'. (Note: When paused, free roaming will pause too
    and the piano will not play any sound even if the keys are pressed.)
 5. To quit, press key 'Esc'.
+6. Video Presentation link via Youtube : https://youtu.be/Qj_UXlzKmaI?si=lspP1ayGlXRoM8i8
 
 
 ![demo-1](https://github.com/lavcoding/3D-Piano-Simulation/assets/132344441/a7d37f2d-5d33-446f-a0a9-533a72ce884c)
